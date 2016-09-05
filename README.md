@@ -7,7 +7,7 @@
 昵称|GitHub|标签
 ---|---|---
 [EGOIST](https://egoistian.com)|[@egoist](https://github.com/egoist)|`Vue` `Electron` `Webpack` `Open Source`
-
+[codedoc](http://i.justpic.org)|[@matrixorz](https://github.com/matrixorz)|`Vue` `AngularJs` `Ionic` `Open Source`
 
 ## License
 

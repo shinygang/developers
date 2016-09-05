@@ -6,8 +6,7 @@
 
 昵称|GitHub|标签
 ---|---|---{% for developer in developers %}
-{{ renderName(developer) }}|[@{{ developer.github }}](https://github.com/{{ developer.github }})|{{ wrapTag(developer.tags) }}
-{% endfor %}
+{{ renderName(developer) }}|[@{{ developer.github }}](https://github.com/{{ developer.github }})|{{ wrapTag(developer.tags) }}{% endfor %}
 
 ## License
 
