@@ -4,15 +4,21 @@
     "name": "EGOIST",
     "blog": "https://egoistian.com",
     "tags": [
-      "Vue", "Electron", "Webpack", "Open Source"
+      "Vue",
+      "Electron",
+      "Webpack",
+      "Open Source"
     ]
   },
   {
-    "github":"matrixorz",
-    "name":"codedoc",
-    "blog":"http://i.justpic.org",
-    "tags":[
-      "Vue","AngularJs","Ionic" ,"Open Source"
-     ]
+    "github": "matrixorz",
+    "name": "codedoc",
+    "blog": "http://i.justpic.org",
+    "tags": [
+      "Vue",
+      "AngularJs",
+      "Ionic",
+      "Open Source"
+    ]
   }
 ]

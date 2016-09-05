@@ -15,6 +15,8 @@ data.renderName = developer => developer.blog ?
 try {
   const res = nunjucks.renderString(fs.readFileSync('./scripts/template.md', 'utf8'), data)
   fs.writeFileSync('./README.md', res, 'utf8')
+  // format data.json
+  fs.writeFileSync('./data.json', JSON.stringify(data.developers, null, 2) + '\n', 'utf8')
   console.log('Success!')
 } catch (err) {
   console.log(err.stack)
