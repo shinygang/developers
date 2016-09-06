@@ -20,5 +20,15 @@
       "Ionic",
       "Open Source"
     ]
+  },
+  {
+    "github": "noctiomg",
+    "name": "Nocti",
+    "blog": "http://nocti.work",
+    "tags": [
+      "Vue",
+      "CreateJS",
+      "FrontEnd"
+    ]
   }
 ]
