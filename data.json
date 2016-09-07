@@ -29,5 +29,16 @@
       "Vue",
       "CreateJS"
     ]
+  },
+  {
+    "github": "shinygang",
+    "name": "shinygang",
+    "blog": "http://shinygang.cn",
+    "tags": [
+      "Vue",
+      "AngularJs",
+      "Webpack",
+      "React"
+    ]
   }
 ]
